@@ -6,4 +6,4 @@ Manutenção\Consulta de Marcas - (APPLE, ESTRELA, BRASTEMP e etc)
 Compra\Venda de Produtos via API com atualização de estoque.
 Coloque dentro da pasta alguns arquivos que indiquem o levantamento de requisitos e da arquitetura proposta.
 Deixe o projeto como publico para que outros analistas possam colaborar com ele.
-Baixe o projeto sem sua máquina. Faça uma alteração em um arquivos qualquer, inclua outros e atualize na sua máquina e no sit
+Baixe o projeto sem sua máquina. Faça uma alteração em um arquivos qualquer, inclua outros e atualize na sua máquina e no site
